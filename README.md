@@ -1,2 +1,2 @@
 # git-on-up
-a transformational git experience
+a transformational git experience.
